@@ -9,5 +9,6 @@ Building on the Intro to Machine Learning and Pandas courses, this course prepar
 
 It offers practical exercises and tutorials, all free of cost, under the instruction of Alexis Cook, and takes an estimated four hours to complete.
 
+Certificate Link: https://github.com/NiharJani2002/kaggle-Intermediate-Machine-Learning/blob/master/Nihar%20Jani%20-%20Intermediate%20Machine%20Learning.png
 
 <img width="935" alt="image" src="https://github.com/user-attachments/assets/b91483a4-bcea-4f3e-b17e-59179e72817d">
